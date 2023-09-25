@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824600641776",
+    "project_id": "rider-app-clone-dd471",
+    "storage_bucket": "rider-app-clone-dd471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824600641776:android:fb3f47fce2912b2003c235",
+        "android_client_info": {
+          "package_name": "com.example.rider_app_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxODICRAAvHBqMO4noBH2mwXz__4PV7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
